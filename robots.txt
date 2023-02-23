@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://miomiora.github.io/mio-blog/mio-blog/sitemap.xml
