@@ -4,8 +4,8 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      icon: "discover",
       text: "Demo",
+      icon: "discover",
       prefix: "demo/",
       link: "demo/",
       children: "structure",

@@ -1,7 +1,7 @@
 ---
-icon: info
+icon: profile
 ---
 
-# Intro Page
+# 欢迎来到妙妙拉的博客:wink:
 
-Place your introduction and profile here.
+### :ghost:你好，我叫妙妙拉，24岁，:mortar_board:学生です！
