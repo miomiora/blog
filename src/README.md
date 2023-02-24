@@ -2,47 +2,17 @@
 home: true
 layout: BlogHome
 icon: home
-title: MioHome
-heroImage: /logo.svg
-heroText: Miomiorαのβ1og
+title: 主页
+bgImage: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/96776418_p0%20miku%202022%203.9.png
+heroText: 𝓜𝓲𝓸𝓶𝓲𝓸𝓻𝓪
 heroFullScreen: true
-tagline: VuePress + Vuepress-theme-hope
+tagline: 无法预知的命运之舞台，是我心中最美丽的梦想。只有在这里，我才能感受到真正的自由和快乐。
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: user-center
+    desc: Gin+Gorm+Redis+MySQL的用户管理系统的后端
+    link: https://github.com/miomiora/user-center
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
-
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
-
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
-  - icon: /logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
 
 footer: miomiora的小窝
 ---
-
-[comment]: <> (这是一个博客主页的案例。)
-
-[comment]: <> (要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。)
-
-[comment]: <> (相关配置文档请见 [博客主页]&#40;https://theme-hope.vuejs.press/zh/guide/blog/home/&#41;。)

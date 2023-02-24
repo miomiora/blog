@@ -1,7 +1,11 @@
 ---
+title: 个人介绍
 icon: profile
 sticky: true
 star: true
+date: 2023-02-24
+tag:
+    - 简介
 ---
 
 # 欢迎来到妙妙拉的博客:wink:

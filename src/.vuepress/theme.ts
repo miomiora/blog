@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { zhNavbar } from "./navbar/index.js";
-import { zhSidebar } from "./sidebar/index.js";
+import { zhNavbar } from "./navbar.js";
+import { zhSidebar } from "./sidebar";
 
 // @ts-ignore
 export default hopeTheme({
@@ -13,9 +13,11 @@ export default hopeTheme({
 
   darkmode: "toggle",
 
+  // iconPrefix: "",
+
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/102439408_p1%20%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg",
 
   repo: "miomiora/mio-blog",
 
