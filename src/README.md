@@ -38,11 +38,11 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: miomiora的小窝
 ---
 
-这是一个博客主页的案例。
+[comment]: <> (这是一个博客主页的案例。)
 
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
+[comment]: <> (要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。)
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+[comment]: <> (相关配置文档请见 [博客主页]&#40;https://theme-hope.vuejs.press/zh/guide/blog/home/&#41;。)

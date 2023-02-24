@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
+// @ts-ignore
 export default hopeTheme({
   hostname: "https://miomiora.github.io/mio-blog/",
 
@@ -77,6 +78,7 @@ export default hopeTheme({
         intro: "/intro.html",
       },
 
+      editLink: false,
       // page meta
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
@@ -95,8 +97,11 @@ export default hopeTheme({
     blog: true,
 
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
       provider: "Giscus",
+      repo: "miomiora/mio-blog",
+      repoId: "R_kgDOJBiVdA",
+      category: "Announcements",
+      categoryId: "DIC_kwDOJBiVdM4CUbgc",
     },
 
     // all features are enabled for demo, only preserve features you need here

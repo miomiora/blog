@@ -1,5 +1,7 @@
 ---
 icon: profile
+sticky: true
+star: true
 ---
 
 # 欢迎来到妙妙拉的博客:wink:
