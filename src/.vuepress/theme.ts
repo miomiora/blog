@@ -98,10 +98,12 @@ export default hopeTheme({
 
     comment: {
       provider: "Giscus",
-      repo: "miomiora/mio-blog",
+      comment: true,
+      repo: "miomiora/miomiora.github.io",
       repoId: "R_kgDOJBiVdA",
       category: "Announcements",
-      categoryId: "DIC_kwDOJBiVdM4CUbgc",
+      categoryId: "DIC_kwDOJBiVdM4CUbgb",
+      // mapping: "pathname",
     },
 
     // all features are enabled for demo, only preserve features you need here
