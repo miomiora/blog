@@ -2,24 +2,21 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/",
-  // { text: "演示", icon: "discover", link: "/demo/" },
   {
     text: "随笔",
     icon: "note",
     prefix: "/note/",
     children: [
-      // {
-      //   text: "苹果",
-      //   icon: "edit",
-      //   prefix: "apple/",
-      //   children: [
-      //     { text: "苹果1", icon: "edit", link: "1" },
-      //     { text: "苹果2", icon: "edit", link: "2" },
-      //     "3",
-      //     "4",
-      //   ],
-      // },
-
+      { text: "随笔", link: "", icon: "note", activeMatch: "^/note/$" },
+      {
+        text: "借物表",
+        icon: "link",
+        prefix: "borrow/",
+        children: [
+          { text: "图片引用", link: "picture", icon: "pic"},
+          { text: "框架引用", link: "program", icon: "code"},
+        ],
+      },
     ],
   },
   {
@@ -27,6 +24,7 @@ export const zhNavbar = navbar([
     icon: "code",
     prefix: "/code/",
     children: [
+      { text: "代码笔记", link: "", icon: "code", activeMatch: "^/code/$" },
       {
         text: "Go",
         icon: "code",
@@ -35,16 +33,26 @@ export const zhNavbar = navbar([
 
         ],
       },
+      {
+        text: "博客部署",
+        icon: "code",
+        prefix: "vuepress/",
+        children: [
+          { text: "安装Node.js", icon: "pic", link: "1" },
+        ],
+      },
     ]
   },
-  {
-    text: "借物",
-    icon: "link",
-    prefix: "/borrow/",
-    children: [
-      { text: "图片引用", icon: "pic", link: "picture" },
-      { text: "程序支持", icon: "code", link: "program" },
-    ]
-  },
+  // {
+  //   text: "借物",
+  //   icon: "link",
+  //   prefix: "/borrow/",
+  //   children: [
+  //     { text: "借物",icon: "borrow",link: "",activeMatch: "^/borrow/$",
+  //     },
+  //     { text: "图片引用", icon: "pic", link: "picture" },
+  //     { text: "程序支持", icon: "code", link: "program" },
+  //   ]
+  // },
 
 ]);
