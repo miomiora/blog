@@ -1,37 +1,9 @@
 import {sidebar} from "vuepress-theme-hope";
+import {code} from "./code";
+import {note} from "./note";
+
 export const zhSidebar = sidebar({
-    "/": [
-        "",
-        "intro",
-        {
-            text: "随笔",
-            icon: "note",
-            prefix: "note/",
-            link:"note/",
-            children: [
-
-            ],
-        },
-        {
-            text: "代码笔记",
-            icon: "code",
-            prefix: "code/",
-            link: "code/",
-            children: [
-
-            ],
-        },
-        {
-            text: "借物",
-            icon: "link",
-            prefix: "borrow/",
-            link: "borrow/",
-            children: [
-                "picture",
-                "program",
-            ],
-        },
-
-    ],
-
+    "/note/": note,
+    "/code/": code,
+    "/": ["", "note/", "code/"],
 });
