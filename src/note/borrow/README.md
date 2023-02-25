@@ -2,6 +2,8 @@
 title: 借物表
 icon: link
 category: 借物表
+date: 2023-02-25
+
 ---
 
 ::: tip 介绍

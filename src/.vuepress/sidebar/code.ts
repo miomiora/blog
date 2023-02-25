@@ -13,6 +13,16 @@ export const code = arraySidebar([
         ],
     },
     {
+        text: "Gin",
+        icon: "template",
+        prefix: "gin/",
+        collapsible: true,
+        children: [
+            "",
+
+        ],
+    },
+    {
         text: "博客部署",
         icon: "blog",
         prefix: "vuepress/",
@@ -20,7 +30,10 @@ export const code = arraySidebar([
         children: [
             "",
             "1",
-            "2"
+            "2",
+            "3",
+            "4",
+            "5"
         ],
     },
 ]);

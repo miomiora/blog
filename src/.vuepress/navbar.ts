@@ -8,6 +8,9 @@ export const zhNavbar = navbar([
     prefix: "/note/",
     children: [
       { text: "随笔", link: "", icon: "note", activeMatch: "^/note/$" },
+      { text: "动画", link: "anime/", icon: "flower", activeMatch: "^/anime/$" },
+      { text: "游戏", link: "game/", icon: "play", activeMatch: "^/game/$" },
+
       {
         text: "借物表",
         icon: "link",
@@ -26,33 +29,14 @@ export const zhNavbar = navbar([
     children: [
       { text: "代码笔记", link: "", icon: "code", activeMatch: "^/code/$" },
       {
-        text: "Go",
+        text: "Go相关",
         icon: "code",
-        prefix: "go/",
         children: [
-
+          { text: "Go", link: "go/", icon: "vscode", activeMatch: "^/go/$" },
+          { text: "Gin", link: "gin/", icon: "template", activeMatch: "^/gin/$" },
         ],
       },
-      {
-        text: "博客部署",
-        icon: "code",
-        prefix: "vuepress/",
-        children: [
-          { text: "安装Node.js", icon: "pic", link: "1" },
-        ],
-      },
+      { text: "博客部署", link: "vuepress/", icon: "blog", activeMatch: "^/vuepress/$" },
     ]
   },
-  // {
-  //   text: "借物",
-  //   icon: "link",
-  //   prefix: "/borrow/",
-  //   children: [
-  //     { text: "借物",icon: "borrow",link: "",activeMatch: "^/borrow/$",
-  //     },
-  //     { text: "图片引用", icon: "pic", link: "picture" },
-  //     { text: "程序支持", icon: "code", link: "program" },
-  //   ]
-  // },
-
 ]);
