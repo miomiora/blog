@@ -4,7 +4,7 @@ export const code = arraySidebar([
     "",
     {
         text: "Go",
-        icon: "vscode",
+        icon: "golang",
         prefix: "go/",
         collapsible: true,
         children: [
@@ -14,7 +14,7 @@ export const code = arraySidebar([
     },
     {
         text: "Gin",
-        icon: "template",
+        icon: "houduankaifa",
         prefix: "gin/",
         collapsible: true,
         children: [
@@ -33,7 +33,19 @@ export const code = arraySidebar([
             "2",
             "3",
             "4",
-            "5"
+            "5",
+            "6"
+        ],
+    },
+    {
+        text: "其他",
+        icon: "other1",
+        prefix: "other/",
+        collapsible: true,
+        children: [
+            "",
+            "port",
+            "redis",
         ],
     },
 ]);

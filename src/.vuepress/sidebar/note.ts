@@ -4,7 +4,7 @@ export const note = arraySidebar([
     "",
     {
         text: "动画",
-        icon: "flower",
+        icon: "a-zujiantianchong_huaban1fuben7",
         prefix: "anime/",
         collapsible: true,
         children: [
@@ -14,7 +14,7 @@ export const note = arraySidebar([
     },
     {
         text: "游戏",
-        icon: "play",
+        icon: "game",
         prefix: "game/",
         collapsible: true,
         children: [
@@ -23,7 +23,7 @@ export const note = arraySidebar([
     },
     {
         text: "借物表",
-        icon: "link",
+        icon: "ziyuanjieyong",
         prefix: "borrow/",
         collapsible: true,
         children: [

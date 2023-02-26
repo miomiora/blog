@@ -1,6 +1,6 @@
 ---
-title: Go
-icon: vscode
+title: Go相关的内容
+icon: golang
 category: 代码
 tag:
     - Go

@@ -15,7 +15,7 @@ export default hopeTheme({
 
   // iconPrefix: "",
 
-  iconAssets: "iconfont",
+  iconAssets: "//at.alicdn.com/t/c/font_3918030_ooh99sos88h.css",
 
   logo: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/102439408_p1%20%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg",
 
@@ -76,7 +76,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个普通的研究生",
+        description: "上海计算机硕士在读",
         intro: "/intro.html",
       },
 

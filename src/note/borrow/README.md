@@ -1,6 +1,6 @@
 ---
 title: 借物表
-icon: link
+icon: ziyuanjieyong
 category: 借物表
 date: 2023-02-25
 

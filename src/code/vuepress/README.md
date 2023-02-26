@@ -1,5 +1,5 @@
 ---
-title: 博客部署
+title: 这个博客的部署流程
 icon: blog
 category: 代码
 tag:
@@ -19,3 +19,6 @@ date: 2023-02-25
 - [安装Node.js](1.md)
 - [安装vuepress-theme-hope](2.md)
 - [安装Git和使用](3.md)
+- [Github设置](4.md)
+- [部署](5.md)
+- [最后](6.md)

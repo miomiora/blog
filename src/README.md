@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: home-fill
 title: 主页
 bgImage: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/96776418_p0%20miku%202022%203.9.png
 heroText: 𝓜𝓲𝓸𝓶𝓲𝓸𝓻𝓪

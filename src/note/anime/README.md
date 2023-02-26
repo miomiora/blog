@@ -1,6 +1,6 @@
 ---
-title: 动画
-icon: flower
+title: 动画吐槽
+icon: a-zujiantianchong_huaban1fuben7
 category: 动画
 date: 2023-02-25
 ---

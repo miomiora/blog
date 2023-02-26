@@ -1,6 +1,6 @@
 ---
 title: 随笔
-icon: note
+icon: notepad
 category: 随笔
 date: 2023-02-25
 sticky: true
