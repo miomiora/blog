@@ -1,1 +1,0 @@
-import{_ as t,V as n,W as c,X as e}from"./framework-7d796c00.js";const s={},o=e("div",{class:"hint-container tip"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,"2023年一月新番")],-1),_=[o];function a(i,l){return n(),c("div",null,_)}const d=t(s,[["render",a],["__file","2301.html.vue"]]);export{d as default};
