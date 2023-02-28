@@ -2,7 +2,6 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar.js";
 import { zhSidebar } from "./sidebar";
 
-// @ts-ignore
 export default hopeTheme({
   hostname: "https://miomiora.github.io/mio-blog/",
 
@@ -10,6 +9,13 @@ export default hopeTheme({
     name: "miomiora",
     url: "https://github.com/miomiora",
   },
+
+  // themeColor: {
+  //   blue: "#2196f3",
+  //   red: "#f26d6d",
+  //   green: "#3eaf7c",
+  //   orange: "#fb9b5f",
+  // },
 
   darkmode: "toggle",
 
@@ -76,7 +82,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "上海计算机硕士在读",
+        description: "魔都计算机硕士在读",
         intro: "/intro.html",
       },
 

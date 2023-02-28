@@ -17,7 +17,7 @@ tag:
 
 Docker中的也打不开，是不是端口被占用了，查一下
 
-```shell
+```shell :no-line-numbers
 netstat -ano | findstr 6379
 ```
 
@@ -31,7 +31,9 @@ netstat -ano | findstr 6379
 
 😥还是不行，决定重启电脑
 
+::: center
 嗯，行了😊
+:::
 
 ![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/GWV84RWHPJZE.png)
 

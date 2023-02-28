@@ -13,12 +13,12 @@ tag:
 
 > 查看对应的端口
 
-```shell
+```shell :no-line-numbers
 netstat -ano | findstr 端口号
 ```
 
 > 杀死对应的Pid进程
 
-```shell
+```shell :no-line-numbers
 taskkill /pid 端口号 -t -f
 ```

@@ -34,7 +34,6 @@ export const code = arraySidebar([
             "3",
             "4",
             "5",
-            "6"
         ],
     },
     {
