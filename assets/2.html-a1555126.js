@@ -1,2 +1,0 @@
-import{_ as e,V as a,W as s,a0 as t}from"./framework-0aae388a.js";const c={},n=t(`<h2 id="安装-vuepress-theme-hope" tabindex="-1"><a class="header-anchor" href="#安装-vuepress-theme-hope" aria-hidden="true">#</a> 安装 vuepress-theme-hope</h2><p>找到一个心意的目录 想好给自己的项目取什么名字</p><div class="language-bash" data-ext="sh"><pre class="language-bash"><code><span class="token function">yarn</span> create vuepress-theme-hope 项目名字
-</code></pre></div>`,3),r=[n];function o(h,p){return a(),s("div",null,r)}const _=e(c,[["render",o],["__file","2.html.vue"]]);export{_ as default};
