@@ -9,11 +9,11 @@ tag:
 
 非常奇怪的是Redis突然就打不开了
 
-![](https://cdn.jsdelivr.net/gh/miomiora/image/image/123asdYGY.png)
+![](https://s2.loli.net/2023/03/04/ygOLEQUz8hrwCaV.png)
 
 我以为是我原生的Redis坏了，转而去用Docker中的Redis，结果也打不开
 
-![](https://cdn.jsdelivr.net/gh/miomiora/image/image/864Z04XXNB00NNN.png)
+![](https://s2.loli.net/2023/03/04/krzOPqAlLxwoKX6.png)
 
 Docker中的也打不开，是不是端口被占用了，查一下
 
@@ -35,6 +35,6 @@ netstat -ano | findstr 6379
 嗯，行了😊
 :::
 
-![](https://cdn.jsdelivr.net/gh/miomiora/image/image/6AWZGWV84RWHPJZE.png)
+![](https://s2.loli.net/2023/03/04/gEq1cp4OjTXlIHK.png)
 
 所以为什么之前Redis启动不了了😶‍🌫️

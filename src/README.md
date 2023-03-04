@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home-fill
 title: 主页
-bgImage: https://cdn.jsdelivr.net/gh/miomiora/image/image/96776418_p0%20miku%202022%203.9.png
+bgImage: https://s2.loli.net/2023/03/04/3Aa4sonmRVTfxtZ.png
 heroText: 𝓜𝓲𝓸𝓶𝓲𝓸𝓻𝓪
 heroFullScreen: true
 tagline: 転がる岩、君に朝が降る
