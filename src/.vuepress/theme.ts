@@ -23,7 +23,7 @@ export default hopeTheme({
 
   iconAssets: "//at.alicdn.com/t/c/font_3918030_ooh99sos88h.css",
 
-  logo: "https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/17292/102439408_p1%20%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg",
+  logo: "https://cdn.jsdelivr.net/gh/miomiora/image/image/102439408_p1%20%E7%BA%B3%E8%A5%BF%E5%A6%B2.jpg",
 
   repo: "miomiora/mio-blog",
 
