@@ -4,12 +4,13 @@ export const code = arraySidebar([
     "",
     {
         text: "Go",
-        icon: "golang",
+        icon: "golang1",
         prefix: "go/",
         collapsible: true,
         children: [
             "",
-
+            "time",
+            "request"
         ],
     },
     {

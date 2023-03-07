@@ -1,6 +1,6 @@
 ---
 title: Go相关的内容
-icon: golang
+icon: golang1
 category: 代码
 tag:
     - Go
