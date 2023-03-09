@@ -10,7 +10,8 @@ export const code = arraySidebar([
         children: [
             "",
             "time",
-            "request"
+            "request",
+            "redis"
         ],
     },
     {

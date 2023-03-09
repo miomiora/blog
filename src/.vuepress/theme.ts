@@ -27,6 +27,8 @@ export default hopeTheme({
 
   repo: "miomiora/mio-blog",
 
+
+
   docsDir: "docs",
 
   blog: {
@@ -103,7 +105,6 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
     comment: {
       provider: "Giscus",
       comment: true,

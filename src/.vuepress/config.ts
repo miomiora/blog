@@ -1,11 +1,8 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-
 export default defineUserConfig({
-  // base: "/mio-blog/",
 
   base: "/",
-
   locales: {
     "/": {
       lang: "zh-CN",
@@ -15,7 +12,6 @@ export default defineUserConfig({
   },
 
   theme,
-
   // Enable it with pwa
   // shouldPrefetch: false,
 });
