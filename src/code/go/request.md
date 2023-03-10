@@ -13,7 +13,7 @@ date: 2023-03-07
 
 根据官方文档，最简单的发请求就是
 
-```Go
+```go
 resp, err := http.Get("http://example.com/")
 
 resp, err := http.Post("http://example.com/upload", "image/jpeg", &buf)
@@ -23,7 +23,7 @@ resp, err := http.PostForm("http://example.com/form",
 ```
 但是我要设置请求头等其他的请求内容的话，就不能用上面的方法了，大概的步骤是通过`http.Newquest()`新建一个请求实例，并在这个请求实例中设置更丰富地请求内容。然后想要真正地发起这个请求的话，必须得用`&http.Client{}`创建一个http客户端实例，然后通过这个实例去调用上面新建的请求
 
-```Go
+```go
 // 创建一个http客户端
 client := &http.Client{}
 

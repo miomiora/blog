@@ -10,7 +10,7 @@ date: 2023-03-07
 
 起因是我需要往一个请求头中塞一个时间，并且还要用时间来比较当前的时间，起初
 
-```Go
+```go
 time.Now().String()
 // 2023-03-07 16:06:22.6212138 +0800 CST m=+0.002775201
 
@@ -26,7 +26,7 @@ time.Now().GoString()
 
 那为了方便就用时间戳来了`time.Now().Unix()`只需要另一头拿到时间戳的字符串，把他转成int64做比较即可
 
-```Go
+```go
 // 拿到当前的时间戳
 start := time.Now().Unix()
 start2 := strconv.FormatInt(start, 10)
