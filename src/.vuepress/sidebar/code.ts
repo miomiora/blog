@@ -25,6 +25,16 @@ export const code = arraySidebar([
         ],
     },
     {
+        text: "gRPC",
+        icon: "golang",
+        prefix: "gRPC/",
+        collapsible: true,
+        children: [
+            "",
+            "start",
+        ],
+    },
+    {
         text: "博客部署",
         icon: "blog",
         prefix: "vuepress/",
