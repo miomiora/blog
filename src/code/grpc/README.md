@@ -14,3 +14,4 @@ date: 2023-03-12
 :::
 
 - [编写一个简单的gRPC应用](start.md)
+- [grpc和gin同时作为服务器](gin.md)

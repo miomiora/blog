@@ -32,6 +32,7 @@ export const code = arraySidebar([
         children: [
             "",
             "start",
+            "gin"
         ],
     },
     {
