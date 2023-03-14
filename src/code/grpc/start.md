@@ -55,6 +55,10 @@ message HelloResponse {
 # 表示使用hello.proto文件生成，并且把生成的文件放在当前的目录下
 protoc --go_out=. hello.proto
 protoc --go-grpc_out=. hello.proto
+
+# java版本
+protoc --plugin=protoc-gen-grpc-java=protoc-gen-grpc-java.exe --grpc-java_out=java --proto_path=proto proto/mio-api.proto
+protoc --java_out=java --proto_path=proto proto/mio-api.proto
 ```
 
 ## 实现接口

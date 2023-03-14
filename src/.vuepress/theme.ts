@@ -21,7 +21,7 @@ export default hopeTheme({
 
   // iconPrefix: "",
 
-  iconAssets: "//at.alicdn.com/t/c/font_3918030_avwgx8m22ld.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3918030_dzqky9yqplr.css",
 
   logo: "https://s2.loli.net/2023/03/04/KHzjSPTb4dtYVwI.jpg",
 

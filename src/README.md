@@ -13,6 +13,11 @@ projects:
     desc: Gin+Gorm+Redis+MySQL的用户管理系统的后端，前端由vite+vue3构建
     link: https://github.com/miomiora/user-center
 
+  - icon: project
+    name: mio-api
+    desc: mio-api开放平台，使用Go作为主要后端，Spring Cloud Gateway作为网关进行鉴权、转发、染色，gRPC作为网关调用Go后端方法的方式
+    link: https://github.com/miomiora/mio-api
+
 
 footer: miomiora的小窝
 ---

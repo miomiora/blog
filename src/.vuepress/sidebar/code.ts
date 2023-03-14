@@ -36,6 +36,17 @@ export const code = arraySidebar([
         ],
     },
     {
+        text: "项目",
+        icon: "xiangmu",
+        prefix: "project/",
+        collapsible: true,
+        children: [
+            "",
+            "user-center",
+            "mio-api"
+        ],
+    },
+    {
         text: "博客部署",
         icon: "blog",
         prefix: "vuepress/",
