@@ -7,8 +7,10 @@ sticky: true
 
 ---
 
-::: tip 介绍
+_这儿会记点游戏、动画、中二病之类的、乱七八糟的、精神错乱的、其他的、的、的、的、的、的、的、_
 
-这里是 miomiora 的一些随笔
+- [中二病](me/README.md)
+- [动画](anime/README.md)
+- [游戏](game/README.md)
+- [借物表](borrow/README.md)
 
-:::

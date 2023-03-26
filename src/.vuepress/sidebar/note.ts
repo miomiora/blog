@@ -29,6 +29,7 @@ export const note = arraySidebar([
         collapsible: true,
         children: [
             "",
+            "amatsutsume"
         ],
     },
     {

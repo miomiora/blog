@@ -7,4 +7,4 @@ date: 2023-03-14
 
 保持中二，快乐常驻
 
-- [因果乃旋转纺车、光影之多面明镜](kaleidoscope.md)
+- [因果乃旋转纺车](kaleidoscope.md)

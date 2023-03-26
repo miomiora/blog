@@ -38,6 +38,8 @@ export const zhNavbar = navbar([
           { text: "gRPC", link: "grpc/", icon: "golang", activeMatch: "^/gRPC/$" },
         ],
       },
+      { text: "MongoDB", link: "mongodb/", icon: "mongodb", activeMatch: "^/mongodb/$" },
+
       { text: "项目", link: "project/", icon: "xiangmu", activeMatch: "^/project/$" },
       { text: "博客部署", link: "vuepress/", icon: "blog", activeMatch: "^/vuepress/$" },
       { text: "其他", link: "other/", icon: "other1", activeMatch: "^/other/$" },

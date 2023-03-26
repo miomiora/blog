@@ -36,6 +36,20 @@ export const code = arraySidebar([
         ],
     },
     {
+        text: "MongoDB",
+        icon: "mongodb",
+        prefix: "mongodb/",
+        collapsible: true,
+        children: [
+            "",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+    },
+    {
         text: "项目",
         icon: "xiangmu",
         prefix: "project/",
