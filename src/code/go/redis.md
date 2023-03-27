@@ -1,11 +1,12 @@
 ---
 title: Redis无法读写
 icon: redis
-category: 代码
+category: Go
 tag:
     - Go
     - Redis
     - 包
+    - 数据库
 date: 2023-03-09
 ---
 

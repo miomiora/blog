@@ -1,10 +1,11 @@
 ---
 title: Redis启动错误
 icon: redis
-category: 错误
+category: 其他
 date: 2023-02-26
 tag:
-    - redis
+    - Redis
+    - 数据库
 ---
 
 非常奇怪的是Redis突然就打不开了

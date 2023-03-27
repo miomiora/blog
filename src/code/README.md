@@ -1,7 +1,7 @@
 ---
 title: 代码笔记
 icon: code
-category: 代码
+category: README
 date: 2023-02-25
 sticky: true
 ---

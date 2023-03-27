@@ -4,8 +4,9 @@ icon: game
 category: 游戏
 date: 2023-03-26
 tag:
+    - 游戏
     - 天津罪
-    - Galgame
+    - Galgame   
 ---
 
 ::: center

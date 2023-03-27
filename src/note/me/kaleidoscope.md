@@ -3,6 +3,7 @@ title: 因果乃旋转纺车
 icon: hudiejie
 category: 中二
 tag:
+    - 中二
     - 美少女万华镜
     - 游戏
 date: 2023-02-24

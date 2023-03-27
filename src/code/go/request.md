@@ -1,7 +1,7 @@
 ---
 title: Go发请求
 icon: zizhuqingqiulei
-category: 代码
+category: Go
 tag:
     - Go
     - net/http

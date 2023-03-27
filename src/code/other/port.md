@@ -1,7 +1,7 @@
 ---
 title: 端口占用
 icon: wangluoduankou
-category: 错误
+category: 其他
 date: 2023-02-26
 tag:
     - 端口占用

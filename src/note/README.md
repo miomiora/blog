@@ -1,7 +1,7 @@
 ---
 title: 随笔
 icon: notepad
-category: 随笔
+category: README
 date: 2023-02-25
 sticky: true
 

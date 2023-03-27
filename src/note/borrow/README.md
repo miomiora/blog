@@ -1,9 +1,10 @@
 ---
 title: 借物表
 icon: ziyuanjieyong
-category: 借物表
+category: README
 date: 2023-02-25
-
+tag:
+    - 借物表
 ---
 
 ::: tip 介绍

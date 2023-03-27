@@ -1,7 +1,7 @@
 ---
 title: Go相关的内容
 icon: golang1
-category: 代码
+category: README
 tag:
     - Go
 date: 2023-02-25

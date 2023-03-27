@@ -46,7 +46,8 @@ export const code = arraySidebar([
             "2",
             "3",
             "4",
-            "5"
+            "5",
+            "6go"
         ],
     },
     {

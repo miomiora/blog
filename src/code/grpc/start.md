@@ -1,7 +1,7 @@
 ---
 title: 编写一个简单的gRPC应用
 icon: golang
-category: 代码
+category: gRPC
 tag:
     - Go
     - gRPC

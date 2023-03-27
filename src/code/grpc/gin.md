@@ -1,11 +1,10 @@
 ---
 title: gRPC和Gin同时作为服务器
 icon: golang
-category: 代码
+category: gRPC
 tag:
     - Go
-    - gRPC
-    - gin
+    - Gin
 date: 2023-03-13
 ---
 

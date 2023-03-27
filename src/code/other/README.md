@@ -1,9 +1,8 @@
 ---
 title: 其他的问题
 icon: other1
-category: 代码
+category: README
 date: 2023-02-26
-
 ---
 
 

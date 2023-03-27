@@ -1,7 +1,7 @@
 ---
 title: 项目简介
 icon: xiangmu
-category: 代码
+category: README
 date: 2023-03-14
 ---
 

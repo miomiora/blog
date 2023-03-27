@@ -1,10 +1,7 @@
 ---
 title: 这个博客的部署流程
 icon: blog
-category: 代码
-tag:
-    - 部署
-    - 前端
+category: README
 date: 2023-02-25
 ---
 

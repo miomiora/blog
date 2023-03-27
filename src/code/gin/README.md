@@ -1,7 +1,7 @@
 ---
 title: Gin相关的内容
 icon: houduankaifa
-category: 代码
+category: README
 tag:
     - Go
     - Gin

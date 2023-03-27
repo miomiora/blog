@@ -1,8 +1,10 @@
 ---
 title: ҉中҉二҉病҉
 icon: Super-Mario
-category: 中二
+category: README
 date: 2023-03-14
+tag:
+    - 中二
 ---
 
 保持中二，快乐常驻
