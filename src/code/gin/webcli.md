@@ -134,7 +134,8 @@ func (UserApi) UserLogin(c *gin.Context) {
 		"user":  userDTO,
 		"token": token,
 	}
-	c.JS
+	c.JSON(http.StatusOK, utils.ResponseOK(res))
+}
 ```
 
 也就是把参数校验、业务处理、数据库操作、返回响应等等内容全部写在了一个函数中，这非常不好
