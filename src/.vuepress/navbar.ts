@@ -3,27 +3,6 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/",
   {
-    text: "随笔",
-    icon: "notepad",
-    prefix: "/note/",
-    children: [
-      { text: "随笔", link: "", icon: "notepad", activeMatch: "^/note/$" },
-      { text: "҉中҉二҉病҉", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
-      { text: "动画", link: "anime/", icon: "a-zujiantianchong_huaban1fuben7", activeMatch: "^/anime/$" },
-      { text: "游戏", link: "game/", icon: "game", activeMatch: "^/game/$" },
-
-      {
-        text: "借物表",
-        icon: "ziyuanjieyong",
-        prefix: "borrow/",
-        children: [
-          { text: "图片引用", link: "picture", icon: "picture-filling"},
-          { text: "框架引用", link: "program", icon: "code"},
-        ],
-      },
-    ],
-  },
-  {
     text: "代码笔记",
     icon: "code",
     prefix: "/code/",
@@ -44,5 +23,26 @@ export const zhNavbar = navbar([
       { text: "博客部署", link: "vuepress/", icon: "blog", activeMatch: "^/vuepress/$" },
       { text: "其他", link: "other/", icon: "other1", activeMatch: "^/other/$" },
     ]
+  },
+  {
+    text: "随笔",
+    icon: "notepad",
+    prefix: "/note/",
+    children: [
+      { text: "随笔", link: "", icon: "notepad", activeMatch: "^/note/$" },
+      { text: "҉中҉二҉病҉", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
+      { text: "动画", link: "anime/", icon: "a-zujiantianchong_huaban1fuben7", activeMatch: "^/anime/$" },
+      { text: "游戏", link: "game/", icon: "game", activeMatch: "^/game/$" },
+
+      {
+        text: "借物表",
+        icon: "ziyuanjieyong",
+        prefix: "borrow/",
+        children: [
+          { text: "图片引用", link: "picture", icon: "picture-filling"},
+          { text: "框架引用", link: "program", icon: "code"},
+        ],
+      },
+    ],
   },
 ]);

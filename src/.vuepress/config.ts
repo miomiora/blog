@@ -4,7 +4,7 @@ export default defineUserConfig({
 
   base: "/",
   host: 'localhost', // ip
-  port: 2001, //端口号
+  port: 20001, //端口号
   locales: {
     "/": {
       lang: "zh-CN",

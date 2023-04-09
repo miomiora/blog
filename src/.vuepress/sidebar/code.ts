@@ -21,7 +21,7 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
-
+            "webcli"
         ],
     },
     {
