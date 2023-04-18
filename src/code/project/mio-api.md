@@ -13,6 +13,8 @@ mio-api开放平台，使用Go作为主要后端，Spring Cloud Gateway作为网
 
 地址：https://github.com/miomiora/mio-api
 
+**_`TODO`_**: 完成该项目时对项目结构的分层还有比较大的问题，从此项目之后都会采用 `CLD` 分层来写项目
+
 ## 运行效果
 
 ![](https://s2.loli.net/2023/03/14/3dFKHOBPuEJNLqM.png)
