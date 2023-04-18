@@ -13,8 +13,8 @@ date: 2023-02-25
 
 ## 目录
 
-- [安装Node.js](1.md)
-- [安装vuepress-theme-hope](2.md)
-- [安装Git和使用](3.md)
-- [Github设置](4.md)
+- [安装 Node.js](1.md)
+- [安装 vuepress-theme-hope](2.md)
+- [安装 Git 和使用](3.md)
+- [Github 设置](4.md)
 - [最后](5.md)

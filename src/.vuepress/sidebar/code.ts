@@ -9,6 +9,7 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
+            "align",
             "map1",
             "nil",
             "time",

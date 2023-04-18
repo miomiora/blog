@@ -1,6 +1,6 @@
 ---
 title: map
-icon: golang1
+icon: hash
 category: Go
 tag:
     - Go

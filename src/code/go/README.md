@@ -1,5 +1,5 @@
 ---
-title: Go相关的内容
+title: Go 相关的内容
 icon: golang1
 category: README
 tag:
@@ -7,12 +7,11 @@ tag:
 date: 2023-02-25
 ---
 
-::: tip 介绍
+`Golang` 的修炼之路，主要记录一些原生 `Go` 的内容
 
-这里是整理一些学习Go语言的相关内容，整理在博客中
-
-:::
-
+- [内存对齐](align.md)
+- [map](map1.md)
+- [nil、空结构体、空接口](nil.md)
 - [时间戳的比较](time.md)
-- [Go发请求](request.md)
-- [Redis无法读写](redis.md)
+- [Go 发请求](request.md)
+- [Redis 无法读写](redis.md)

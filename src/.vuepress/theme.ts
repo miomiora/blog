@@ -21,13 +21,11 @@ export default hopeTheme({
 
   // iconPrefix: "",
 
-  iconAssets: "//at.alicdn.com/t/c/font_3918030_n5xvg5sm9a.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3918030_0c96c96sd649.css",
 
   logo: "https://s2.loli.net/2023/04/09/D5VmfW7otSsgHUh.png",
 
   repo: "miomiora/mio-blog",
-
-
 
   docsDir: "docs",
 

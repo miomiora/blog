@@ -1,5 +1,5 @@
 ---
-title: Redis启动错误
+title: Redis 启动错误
 icon: redis
 category: 其他
 date: 2023-02-26

@@ -1,5 +1,5 @@
 ---
-title: gRPC和Gin同时作为服务器
+title: gRPC 和 Gin 同时作为服务器
 icon: golang
 category: gRPC
 tag:

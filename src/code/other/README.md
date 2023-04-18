@@ -14,5 +14,5 @@ date: 2023-02-26
 
 ## 目录
 - [端口占用](port.md)
-- [Redis启动错误](redis.md)
+- [Redis 启动错误](redis.md)
 

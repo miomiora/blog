@@ -1,5 +1,5 @@
 ---
-title: Gin相关的内容
+title: Gin 相关的内容
 icon: houduankaifa
 category: README
 tag:
@@ -8,8 +8,6 @@ tag:
 date: 2023-02-25
 ---
 
-::: tip 介绍
+记录使用 `Gin` 遇到的问题
 
-这里是整理一些学习Gin的内容
-
-:::
+- [Gin 的 Web 开发脚手架](webcli.md)

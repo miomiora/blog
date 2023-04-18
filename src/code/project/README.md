@@ -9,8 +9,8 @@ date: 2023-03-14
 
 这是上传到`GitHub`上的项目的一些简介
 
-- [API 开放平台](mio-api.md)
-- [用户中心管理](user-center.md)
+- API 开放平台 - [mio-api](mio-api.md)
+- 用户中心管理 - [user-center](user-center.md)
 
 ## 其他项目
 

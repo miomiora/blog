@@ -1,5 +1,5 @@
 ---
-title: 编写一个简单的gRPC应用
+title: 编写一个简单的 gRPC 应用
 icon: golang
 category: gRPC
 tag:

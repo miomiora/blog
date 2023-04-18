@@ -1,5 +1,5 @@
 ---
-title: Go实现CRUD操作
+title: Go 实现 CRUD 操作
 icon: mongodb
 category: MongoDB
 tag:
