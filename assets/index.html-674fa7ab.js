@@ -1,1 +1,0 @@
-import{_ as n,V as c,W as s,X as e,Y as t}from"./framework-0aae388a.js";const o={},a=e("div",{class:"hint-container tip"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,[t("这是上传到"),e("code",null,"GitHub"),t("上的项目的一些简介")])],-1),i=[a];function l(_,r){return c(),s("div",null,i)}const u=n(o,[["render",l],["__file","index.html.vue"]]);export{u as default};
