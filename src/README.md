@@ -9,14 +9,19 @@ heroFullScreen: true
 tagline: 吾乃梦之戍人、幻恋之观者、唯于万华镜中、永世长存
 projects:
   - icon: project
-    name: user-center
-    desc: Gin+Gorm+Redis+MySQL的用户管理系统的后端，前端由vite+vue3构建
-    link: https://github.com/miomiora/user-center
+    name: mio-init
+    desc: Go web 开发脚手架
+    link: https://github.com/miomiora/mio-init
 
   - icon: project
     name: mio-api
     desc: mio-api开放平台，使用Go作为主要后端，Spring Cloud Gateway作为网关进行鉴权、转发、染色，gRPC作为网关调用Go后端方法的方式
     link: https://github.com/miomiora/mio-api
+    
+  - icon: project
+    name: mio-search
+    desc: mio-search 聚合搜索平台，基于 Vue3 + Go
+    link: https://github.com/miomiora/mio-search
 
 
 footer: miomiora的小窝

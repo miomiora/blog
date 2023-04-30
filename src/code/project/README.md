@@ -10,7 +10,8 @@ date: 2023-03-14
 这是上传到`GitHub`上的项目的一些简介
 
 - API 开放平台 - [mio-api](mio-api.md)
-- 用户中心管理 - [user-center](user-center.md)
+- Go web 脚手架 - [mio-init](mio-init.md)
+- 聚合搜索平台 - [mio-search](mio-init.md)
 
 ## 其他项目
 

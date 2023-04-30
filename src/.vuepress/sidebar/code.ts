@@ -60,7 +60,8 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "user-center",
+            "mio-search",
+            "mio-init",
             "mio-api"
         ],
     },

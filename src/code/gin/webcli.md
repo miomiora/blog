@@ -5,6 +5,8 @@ category: Gin
 tag:
     - Go
     - Gin   
+    - Web
+    - 脚手架
 date: 2023-04-09
 ---
 
