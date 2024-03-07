@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home-fill
-title: 主页
+title: 妙妙拉喵
 bgImage: https://s2.loli.net/2023/03/04/3Aa4sonmRVTfxtZ.png
 heroText: 𝓜𝓲𝓸𝓶𝓲𝓸𝓻𝓪
 heroFullScreen: true
