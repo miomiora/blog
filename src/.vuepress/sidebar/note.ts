@@ -32,7 +32,8 @@ export const note = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "amatsutsume"
+            "空之轨迹",
+            "天津罪"
         ],
     },
     {

@@ -25,7 +25,7 @@ export default hopeTheme({
 
   logo: "https://s2.loli.net/2023/04/09/D5VmfW7otSsgHUh.png",
 
-  repo: "miomiora/mio-blog",
+  repo: "miomiora",
 
   docsDir: "docs",
 
