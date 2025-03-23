@@ -1,15 +1,15 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "222",
   "description": "A project of vuepress-theme-hope",
   "version": "2.0.0",
   "license": "MIT",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
-    "build": "vuepress-vite build src --output src/.vuepress",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "build": "vuepress-vite build src --output src/.vuepress",
     "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "yarn dlx vp-update"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",
