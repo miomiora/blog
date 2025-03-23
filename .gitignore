@@ -4,3 +4,6 @@ src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
 .idea/
+.yarn
+.pnp.cjs
+yarn.lock
