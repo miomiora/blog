@@ -17,27 +17,27 @@ export const code = arraySidebar([
             "redis"
         ],
     },
-    {
-        text: "Gin",
-        icon: "houduankaifa",
-        prefix: "gin/",
-        collapsible: true,
-        children: [
-            "",
-            "webcli"
-        ],
-    },
-    {
-        text: "gRPC",
-        icon: "golang",
-        prefix: "gRPC/",
-        collapsible: true,
-        children: [
-            "",
-            "start",
-            "gin"
-        ],
-    },
+    // {
+    //     text: "Gin",
+    //     icon: "houduankaifa",
+    //     prefix: "gin/",
+    //     collapsible: true,
+    //     children: [
+    //         "",
+    //         "webcli"
+    //     ],
+    // },
+    // {
+    //     text: "gRPC",
+    //     icon: "golang",
+    //     prefix: "gRPC/",
+    //     collapsible: true,
+    //     children: [
+    //         "",
+    //         "start",
+    //         "gin"
+    //     ],
+    // },
     {
         text: "MongoDB",
         icon: "mongodb",

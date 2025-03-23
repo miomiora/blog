@@ -13,8 +13,8 @@ export const zhNavbar = navbar([
         icon: "code",
         children: [
           { text: "Go", link: "go/", icon: "golang1", activeMatch: "^/go/$" },
-          { text: "Gin", link: "gin/", icon: "houduankaifa", activeMatch: "^/gin/$" },
-          { text: "gRPC", link: "grpc/", icon: "golang", activeMatch: "^/gRPC/$" },
+          // { text: "Gin", link: "gin/", icon: "houduankaifa", activeMatch: "^/gin/$" },
+          // { text: "gRPC", link: "grpc/", icon: "golang", activeMatch: "^/gRPC/$" },
         ],
       },
       { text: "MongoDB", link: "mongodb/", icon: "mongodb", activeMatch: "^/mongodb/$" },
