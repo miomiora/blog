@@ -1,6 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhNavbar = navbar([
+export default navbar([
   "/",
   {
     text: "代码笔记",
@@ -30,7 +30,7 @@ export const zhNavbar = navbar([
     prefix: "/note/",
     children: [
       { text: "随笔", link: "", icon: "notepad", activeMatch: "^/note/$" },
-      { text: "҉中҉二҉病҉", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
+      // { text: "҉中҉二҉病҉", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
       { text: "动画", link: "anime/", icon: "a-zujiantianchong_huaban1fuben7", activeMatch: "^/anime/$" },
       { text: "游戏", link: "game/", icon: "game", activeMatch: "^/game/$" },
 
@@ -39,8 +39,8 @@ export const zhNavbar = navbar([
         icon: "ziyuanjieyong",
         prefix: "borrow/",
         children: [
-          { text: "图片引用", link: "picture", icon: "picture-filling"},
-          { text: "框架引用", link: "program", icon: "code"},
+          { text: "图片", link: "picture", icon: "picture-filling"},
+          { text: "框架", link: "program", icon: "code"},
         ],
       },
     ],
