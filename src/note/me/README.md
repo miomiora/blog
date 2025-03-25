@@ -1,5 +1,5 @@
 ---
-title: ҉中҉二҉病҉
+title: 发电
 icon: Super-Mario
 category: README
 date: 2023-03-14

@@ -3,7 +3,7 @@ import { arraySidebar } from "vuepress-theme-hope";
 export const note = arraySidebar([
     "",
     {
-        text: "҉中҉二҉病҉",
+        text: "发电",
         icon: "Super-Mario",
         prefix: "me/",
         collapsible: true,

@@ -30,7 +30,7 @@ export const zhNavbar = navbar([
     prefix: "/note/",
     children: [
       { text: "随笔", link: "", icon: "notepad", activeMatch: "^/note/$" },
-      { text: "҉中҉二҉病҉", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
+      { text: "发电", link: "me/", icon: "Super-Mario", activeMatch: "^/me/$" },
       { text: "动画", link: "anime/", icon: "a-zujiantianchong_huaban1fuben7", activeMatch: "^/anime/$" },
       { text: "游戏", link: "game/", icon: "game", activeMatch: "^/game/$" },
 
