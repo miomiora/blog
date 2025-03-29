@@ -17,16 +17,6 @@ export const code = arraySidebar([
             "redis"
         ],
     },
-    // {
-    //     text: "Gin",
-    //     icon: "houduankaifa",
-    //     prefix: "gin/",
-    //     collapsible: true,
-    //     children: [
-    //         "",
-    //         "webcli"
-    //     ],
-    // },
     {
         text: "gRPC",
         icon: "golang",
@@ -61,9 +51,6 @@ export const code = arraySidebar([
         children: [
             "",
             "feature",
-            // "mio-search",
-            // "mio-init",
-            // "mio-api"
         ],
     },
     {
