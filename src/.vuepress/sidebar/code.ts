@@ -27,17 +27,17 @@ export const code = arraySidebar([
     //         "webcli"
     //     ],
     // },
-    // {
-    //     text: "gRPC",
-    //     icon: "golang",
-    //     prefix: "gRPC/",
-    //     collapsible: true,
-    //     children: [
-    //         "",
-    //         "start",
-    //         "gin"
-    //     ],
-    // },
+    {
+        text: "gRPC",
+        icon: "golang",
+        prefix: "gRPC/",
+        collapsible: true,
+        children: [
+            "",
+            "start",
+            "gin"
+        ],
+    },
     {
         text: "MongoDB",
         icon: "mongodb",
@@ -60,9 +60,10 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "mio-search",
-            "mio-init",
-            "mio-api"
+            "feature",
+            // "mio-search",
+            // "mio-init",
+            // "mio-api"
         ],
     },
     {

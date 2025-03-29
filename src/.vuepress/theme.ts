@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar.js";
-import { zhSidebar } from "./sidebar";
+import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://github.com/miomiora",
@@ -21,7 +21,7 @@ export default hopeTheme({
 
   // iconPrefix: "",
 
-  iconAssets: "//at.alicdn.com/t/c/font_3918030_0c96c96sd649.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3918030_kkg9un8oqxs.css",
 
   logo: "https://s2.loli.net/2023/04/09/D5VmfW7otSsgHUh.png",
 

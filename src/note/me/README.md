@@ -9,4 +9,4 @@ tag:
 
 保持中二，快乐常驻
 
-- [因果乃旋转纺车](kaleidoscope.md)
+[//]: # (- [因果乃旋转纺车]&#40;kaleidoscope.md&#41;)

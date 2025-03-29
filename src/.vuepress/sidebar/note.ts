@@ -2,16 +2,16 @@ import { arraySidebar } from "vuepress-theme-hope";
 
 export const note = arraySidebar([
     "",
-    {
-        text: "发电",
-        icon: "Super-Mario",
-        prefix: "me/",
-        collapsible: true,
-        children: [
-            "",
-            "kaleidoscope"
-        ],
-    },
+    // {
+    //     text: "发电",
+    //     icon: "Super-Mario",
+    //     prefix: "me/",
+    //     collapsible: true,
+    //     children: [
+    //         "",
+    //         "kaleidoscope"
+    //     ],
+    // },
     {
         text: "动画",
         icon: "a-zujiantianchong_huaban1fuben7",
@@ -19,10 +19,10 @@ export const note = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "2310",
-            "2307",
-            "2304",
-            "2301",
+            // "2310",
+            // "2307",
+            // "2304",
+            // "2301",
         ],
     },
     {
@@ -32,8 +32,8 @@ export const note = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "空之轨迹",
-            "天津罪"
+            // "空之轨迹",
+            // "天津罪"
         ],
     },
     {
