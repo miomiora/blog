@@ -51,6 +51,7 @@ export const code = arraySidebar([
         children: [
             "",
             "feature",
+            "mio-init"
         ],
     },
     {

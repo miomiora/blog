@@ -8,7 +8,7 @@ tag:
 date: 2025-03-29
 ---
 
-- Go Web Gin 项目重写
+- ~~Go Web Gin 项目重写~~ [Go Web 脚手架](mio-init.md)
 
 - 10wQPS 抢购系统
 
