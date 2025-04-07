@@ -105,3 +105,30 @@ type User struct {
 | `int32` `bool` `struct{}` | `[]int32` | `[]int32` | `[]int32` | `string` | `string` |          | 
 
 大小如愿变成了 `48`
+
+```go
+type User struct {
+	A int32
+	B []int32
+	C string
+	D bool
+	E struct{}
+}
+
+type User2 struct {
+	A int32
+	D bool
+	E struct{}
+	B []int32
+	C string
+}
+
+func main() {
+	fmt.Println("对齐前：", unsafe.Sizeof(User{}))
+	fmt.Println("对齐后：", unsafe.Sizeof(User2{}))
+}
+/*
+    对齐前： 56
+    对齐后： 48
+*/
+```
