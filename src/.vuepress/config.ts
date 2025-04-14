@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import {sitemapPlugin} from "@vuepress-denaro/vuepress-plugin-sitemap";
 export default defineUserConfig({
 
   base: "/",
@@ -14,6 +15,11 @@ export default defineUserConfig({
   },
 
   theme,
+    plugins: [
+        sitemapPlugin({
+            hostname: 'https://blog.miomiora.icu/',
+        }),
+    ],
   // Enable it with pwa
   // shouldPrefetch: false,
 });
